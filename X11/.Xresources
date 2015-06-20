@@ -1,4 +1,46 @@
 URxvt.font: xft:DejaVu Sans Mono:size=10
-URxvt.background: #1e1e1e
-URxvt.foreground: white
+!!URxvt.background: #1e1e1e
+!!URxvt.foreground: white
 URxvt.scrollBar: false
+
+!!Source http://github.com/altercation/solarized
+
+*background: #002833
+*foreground: #839496
+!!*fading: 40
+*fadeColor: #002b36
+*cursorColor: #93a1a1
+*pointerColorBackground: #586e75
+*pointerColorForeground: #93a1a1
+
+!! black dark/light
+*color0: #003540
+*color8: #002833
+
+!! red dark/light
+*color1: #da3435
+*color9: #c94c22
+
+!! green dark/light
+*color2: #85981c
+*color10: #596e75
+
+!! yellow dark/light
+*color3: #b4881D
+*color11: #667b83
+
+!! blue dark/light
+*color4: #2e8ccf
+*color12: #839496
+
+!! magenta dark/light
+*color5: #d13a82
+*color13: #6d71c4
+
+!! cyan dark/light
+*color6: #32a198
+*color14: #93a1a1
+
+!! white dark/light
+*color7: #eee8d6
+*color15: #fdf6e4
