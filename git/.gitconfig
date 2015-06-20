@@ -3,3 +3,5 @@
 	email = gavin.james@gmail.com
 [core]
 	editor = vim
+[push]
+	default = simple
